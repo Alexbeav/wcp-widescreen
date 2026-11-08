@@ -1,0 +1,14 @@
+*
+!.gitignore
+!LICENSE
+!README.md
+!Install.ps1
+!Build.ps1
+!manifest.json
+!src/
+!src/wcpwide.cpp
+!docs/
+!docs/REPORT.md
+!docs/canonical-sources.md
+!tests/
+!tests/Install.Tests.ps1

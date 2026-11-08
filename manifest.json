@@ -1,0 +1,14 @@
+{
+  "version": "0.1",
+  "platform": "win32",
+  "supported_edition": "Steam Enhanced, 30th Anniversary Edition",
+  "steam_app_id": "3067120",
+  "tested_steam_build_id": "26463990",
+  "exe_original_sha256": "442A4668367F65FCCFAB7A6791B5BD4C2747F24DE1D454CDCBE6A276F060432D",
+  "exe_60fps_sha256": "4EDE5E11844B0B0AD7DFC8FCDA17A472C7B094D8C3BE355457E4C167F17CE71D",
+  "renderer_original_sha256": "6656D72AAB506B3D2041FAD4330E5BA4B106034A1B6F283FD1C76E2700204020",
+  "proxy_sha256": "EF9CACCE9762989604FC8B55119C3F947A55ABEF546ECFC8C52BDC15B21C15F6",
+  "fps_offset": 515736,
+  "recognition_offset": 515729,
+  "recognition_hex": "FF680000804068"
+}
